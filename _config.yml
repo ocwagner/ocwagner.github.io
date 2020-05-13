@@ -9,7 +9,7 @@ name: Owen Wagner
 description: Student of data-driven agriculture
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/crop_circle.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:ocwagner@ncsu.edu
   facebook:
   flickr:
   github: 
