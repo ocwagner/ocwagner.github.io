@@ -12,7 +12,8 @@ May 2007 - MS in [Agricultural and Applied Economics](https://aaec.vt.edu/) - [V
 
 May 2003 - BS in [Agronomy](https://cals.ncsu.edu/crop-and-soil-sciences/) - NCSU
 
-![](https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/ncsu.png)![](https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/vt.jpg)
+![](https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/ncsu.png)
+![](https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/vt.jpg)
 
 ### More Information
 
