@@ -12,11 +12,11 @@ May 2007 - MS in [Agricultural and Applied Economics](https://aaec.vt.edu/) - [V
 
 May 2003 - BS in [Agronomy](https://cals.ncsu.edu/crop-and-soil-sciences/) - NCSU
 
-![](C:\Users\ocwag\OneDrive\Desktop\Stat_for_Data_Science\Module_3\ncsu.png)
+![](\Users\ocwag\OneDrive\Desktop\Stat_for_Data_Science\Module_3\ncsu.png)
 
 ### More Information
 
-I have a loverly wife, three kids, a dog and a mortgage - *the full catastrophe*
+I have a lovely wife, three kids, a dog and a mortgage - *the full catastrophe*
 
 ### Contact me
 
