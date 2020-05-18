@@ -12,7 +12,7 @@ May 2007 - MS in [Agricultural and Applied Economics](https://aaec.vt.edu/) - [V
 
 May 2003 - BS in [Agronomy](https://cals.ncsu.edu/crop-and-soil-sciences/) - NCSU
 
-![Alt text](/Users/ocwag/OneDrive/Desktop/Stat-for-Data-Science/Module-3/ncsu.png)![Alt text](/Users/ocwag/OneDrive/Desktop/Stat-for-Data-Science/Module-3/vt.jpg)
+![](/Users/ocwag/OneDrive/Desktop/Stat-for-Data-Science/Module-3/ncsu.png)![](/Users/ocwag/OneDrive/Desktop/Stat-for-Data-Science/Module-3/vt.jpg)
 
 ### More Information
 
