@@ -14,7 +14,7 @@ May 2003 - BS in [Agronomy](https://cals.ncsu.edu/crop-and-soil-sciences/) - NCS
 
 ![](\Users\ocwag\OneDrive\Desktop\Stat-for-Data-Science\Module-3\ncsu.png)![](/Users/ocwag/OneDrive/Desktop/Stat-for-Data-Science/Module-3/vt.jpg)
 
-'''knitr::include_graphics(\Users\ocwag\OneDrive\Desktop\Stat-for-Data-Science\Module-3\ncsu.png)'''
+'''{r graphics, out.width="800px",echo=FALSE}knitr::include_graphics("\Users\ocwag\OneDrive\Desktop\Stat-for-Data-Science\Module-3\ncsu.png")'''
 
 ### More Information
 
