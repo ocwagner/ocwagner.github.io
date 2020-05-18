@@ -16,7 +16,7 @@ May 2003 - BS in [Agronomy](https://cals.ncsu.edu/crop-and-soil-sciences/) - NCS
 
 ### More Information
 
-I have a loverly wife, three kids, a dog and a mortgage - #the full catastrophe#
+I have a loverly wife, three kids, a dog and a mortgage - *the full catastrophe*
 
 ### Contact me
 
