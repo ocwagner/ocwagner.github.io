@@ -6,4 +6,4 @@ I have spent more hours working on excel spreadsheets than I care to admit. Whil
 
 Last fall I took an intro to R course through the BAE department. That course focused very heavily on functions and less on data management amd collaboration and not at all on machine learning. The logic in R is not hard to follow and the syntax can be referenced fairly easily using the web or existing R practicioners. What I find most challenging about R are all the "unknown unknowns" - i.e. there are so many commands and functions available beyond what is covered in introductory texts that at times it can be difficult to discover they exist in the first place. 
 ![](https://raw.githubusercontent.com/ocwagner/ocwagner.github.io/master/images/Rlogo.png)
-<!-- .element height="50%" width="50%" -->
+<!-- .element height="10%" width="10%" -->
