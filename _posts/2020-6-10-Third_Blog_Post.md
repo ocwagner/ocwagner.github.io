@@ -6,6 +6,8 @@ For our first project for ST 558 we were asked to access data from the NHL API a
 
 The last three of the five calls for the project were franchise specific and in my case, I looked into data for the Pittsburgh Penguins. The first visual was a pair of ineractive tables, delineating team records. Next, I created a bar chart comparing game outcomes by Pittsburgh goalies over the years. Finally, I created a scatterplot comparing penalty minutes logged and years played by position - Left Wingers and Centers accumulate penalty minutes the quickest while Right Wingers accumulate them the most slowly.
 
+[The GitHub Markdown for that project lives here.](https://github.com/ocwagner/Project_1/blob/master/README.md)
+
 ### A few takeaways from this project:
 
 1) Accessing the data from the API was quick painless.
