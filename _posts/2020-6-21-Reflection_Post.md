@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Refelction post.
+title: Reflection post.
 ---
 This is the final course in my Master's program and I definitely feel like I'm going out with a bang - shot out of a cannon even! Without a doubt, I am learning a lot and I look forward to incorporating some of the tools we have learned in R into my work.
 
