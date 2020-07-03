@@ -2,7 +2,7 @@
 layout: post
 title: Project 2 post.
 ---
-For our second ST 558 project we were asked to develop models predicting "shares" based on a data set of 61 attributes and 39,644 observations. In total I developed 6 models:
+For our second ST 558 project we were asked to develop models predicting "shares" based on a data set of 61 attributes and 39,644 observations. Models were developed and shares predicted seperately for each day of the week. In total I developed 6 models (for each of the 7 days of the week):
 
 1) A simple linear model incorporating all predictive variables.
 2) A linear model incorporating select variables that are correlated with "shares" 
@@ -13,7 +13,15 @@ For our second ST 558 project we were asked to develop models predicting "shares
 
 Models were trained on a scaled, test dataset specific to each day of the week and tested on a seperate data set also specific to the day in question. Predictiveness was evaluated using RMSE. Relatively little difference was observed in terms of predictiveness across models, which suggests that the relationship between "shares" and independent variables is farily linear in nature. 
 
-[The GitHub Markdown for that project lives here.](https://github.com/ocwagner/Project_2/blob/master/README.md)
+[The Readme file for that project,  lives here.](https://github.com/ocwagner/Project_2/blob/master/README.md)
+
+The analysis for [Monday is available here] (https://github.com/ocwagner/Project_2/blob/master/monday.md)
+The analysis for [Tuesday is available here] (https://github.com/ocwagner/Project_2/blob/master/tuesday.md)
+The analysis for [Wednesday is available here] (https://github.com/ocwagner/Project_2/blob/master/wednesday.md)
+The analysis for [Thursday is available here] (https://github.com/ocwagner/Project_2/blob/master/thursday.md)
+The analysis for [Friday is available here] (https://github.com/ocwagner/Project_2/blob/master/friday.md)
+The analysis for [Saturday is available here] (https://github.com/ocwagner/Project_2/blob/master/saturday.md)
+The analysis for [Sunday is available here] (https://github.com/ocwagner/Project_2/blob/master/sunday.md)
 
 ### A few takeaways and questions from this project:
 
