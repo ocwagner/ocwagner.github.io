@@ -13,7 +13,7 @@ For our second ST 558 project we were asked to develop models predicting "shares
 
 Models were trained on a scaled, test dataset specific to each day of the week and tested on a seperate data set also specific to the day in question. Predictiveness was evaluated using RMSE. Relatively little difference was observed in terms of predictiveness across models, which suggests that the relationship between "shares" and independent variables is farily linear in nature. 
 
-[The Readme file for that project,  lives here.](https://github.com/ocwagner/Project_2/blob/master/README.md)
+### [The Readme file for that project,  lives here.](https://github.com/ocwagner/Project_2/blob/master/README.md)
 
 - The analysis for [Monday is available here] (https://github.com/ocwagner/Project_2/blob/master/monday.md)
 - The analysis for [Tuesday is available here] (https://github.com/ocwagner/Project_2/blob/master/tuesday.md)
@@ -25,7 +25,7 @@ Models were trained on a scaled, test dataset specific to each day of the week a
 
 ### A few takeaways and questions from this project:
 
-1) With computationally simpler assignments, you could make mistakes, redo work and troubleshoot without too much penalty. But, once you start asking developing ensemble models it seems more important to be methodical upfront, lest you waste a fair amount of time rerunning your models.
+1) With computationally simpler assignments, you could make mistakes, redo work and troubleshoot without too much penalty. But, once you start asking developing ensemble models it seems more important to be methodical upfront, lest you waste a fair amount of t ime rerunning your models.
 2) In past assignments I have been more comfortable working in the R script and transfering that work to R Markdown. But in the same vein as above, I began to confront the inefficiences of this approach with this project. 
 3) I have a strong appreciation for the caret package automating model training and prediction for us. But, with so much automation and relatively little training in statistical theory how confident can I be that my models are sound?
 4) What applications can we use to help use select appropriate variables upfront, making our models easier to interpret?
