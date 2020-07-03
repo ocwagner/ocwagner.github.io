@@ -15,13 +15,13 @@ Models were trained on a scaled, test dataset specific to each day of the week a
 
 ### [The Readme file for that project,  lives here.](https://github.com/ocwagner/Project_2/blob/master/README.md)
 
-- The analysis for [Monday is available here] (https://github.com/ocwagner/Project_2/blob/master/monday.md)
-- The analysis for [Tuesday is available here] (https://github.com/ocwagner/Project_2/blob/master/tuesday.md)
-- The analysis for [Wednesday is available here] (https://github.com/ocwagner/Project_2/blob/master/wednesday.md)
-- The analysis for [Thursday is available here] (https://github.com/ocwagner/Project_2/blob/master/thursday.md)
-- The analysis for [Friday is available here] (https://github.com/ocwagner/Project_2/blob/master/friday.md)
-- The analysis for [Saturday is available here] (https://github.com/ocwagner/Project_2/blob/master/saturday.md)
-- The analysis for [Sunday is available here] (https://github.com/ocwagner/Project_2/blob/master/sunday.md)
+- The analysis for [Monday is available here](https://github.com/ocwagner/Project_2/blob/master/monday.md)
+- The analysis for [Tuesday is available here](https://github.com/ocwagner/Project_2/blob/master/tuesday.md)
+- The analysis for [Wednesday is available here](https://github.com/ocwagner/Project_2/blob/master/wednesday.md)
+- The analysis for [Thursday is available here](https://github.com/ocwagner/Project_2/blob/master/thursday.md)
+- The analysis for [Friday is available here](https://github.com/ocwagner/Project_2/blob/master/friday.md)
+- The analysis for [Saturday is available here](https://github.com/ocwagner/Project_2/blob/master/saturday.md)
+- The analysis for [Sunday is available here](https://github.com/ocwagner/Project_2/blob/master/sunday.md)
 
 ### A few takeaways and questions from this project:
 
