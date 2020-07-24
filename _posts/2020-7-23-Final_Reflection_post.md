@@ -6,8 +6,11 @@ title: Final reflection post
 Because R can make quick work of complex statistical analysis, like random forests for example, the primary job of the data scientist as I see it is to:
 
 1) Identify appropriate questions, based on subject matter expertise.
+
 2) Identify appropriate models, which is a question of subject matter expertise and an adequate knowledge of statistics.
+
 3) Structure the data in such a way that it can be processed by R / a computer, and;
+
 4) Finally, share resulting insights with decision makers, a process that R makes much more effectvie with the availability of rich visualizations and user-friendly apps. 
 
 Going into this course, I recognized that computer science was one leg of the three legged stool of data science but did not have a full appreciation for all that entailed. 
