@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Reflection post.
+title: Final reflection post
 ---
-This is the final course in my Master's program and I definitely feel like I'm going out with a bang - shot out of a cannon even! Without a doubt, I am learning a lot and I look forward to incorporating some of the tools we have learned in R into my work.
 
-Things that I like about the course include assignment and project subject matter, which tend to be interesting in their own right. I also appreciate that the professor and TA are consistently available during office hours.
+Because R can make quick work of complex statistical analysis, like random forests for example, the primary job of the data scientist as I see it is to:
 
-One aspect of the course that I dislike is that there seems to be strong "wild goose chase" component. I certainly appreciate the value in being able to find answers one one's own, through Stack Overflow or otherwise, but at least in my case I feel that I may actually retain more if I spent more time practicing simpler examples and less time trawling the internet for answers. The pace of the course is also intense but, it is my last one, so I'll grin and bear it =).
+1) Identify appropriate questions, based on subject matter expertise.
+2) Identify appropriate models, which is a question of subject matter expertise and an adequate knowledge of statistics.
+3) Structure the data in such a way that it can be processed by R / a computer, and;
+4) Finally, share resulting insights with decision makers, a process that R makes much more effectvie with the availability of rich visualizations and user-friendly apps. 
 
-I think the lectures are clear and well organized. One thing that might be nice to add would be a discussion of questions that you recieved the previous week and/or mistakes/misunderstanding that were being observed in the course of assignments. 
+Going into this course, I recognized that computer science was one leg of the three legged stool of data science but did not have a full appreciation for all that entailed. 
+For me, the logic of computer programming is not the challenging part, rather it is the adherence to syntax and the ability to troubleshoot bugs in code. 
+
+I will continue to use R going forward. As I said in earlier blog posts, I used to rely solely on excel but found my needs to be outpacing its abilities. Many people in my profession use R and I am pleased that I can no be part of that conversation. This course has provided excellent exposure to new (to me) non-linear modelling as well as unsupevised learning techniques, all of which I will incorporate into my future work.
+
